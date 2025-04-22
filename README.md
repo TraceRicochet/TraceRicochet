@@ -1,4 +1,4 @@
-### Hey 👋
+### Hey 🖖
 
 Most of my repos are private... for now 🤷
 <!--
