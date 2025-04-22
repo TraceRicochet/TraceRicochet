@@ -1,6 +1,6 @@
 ### Hey 👋
 
-All my repos are private... for now 🤷
+Most of my repos are private... for now 🤷
 <!--
 **TraceRicochet/TraceRicochet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
